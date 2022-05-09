@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '1218'
     url: http://www.gutenberg.org/2009/agents/1218
     wikipedia: https://en.wikipedia.org/wiki/Laurence_Housman
+covers:
+- cover_type: archival
+  image_path: 67883-h/images/cover.jpg
 creator:
   author:
     agent_name: Barlow, Jane
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6301
     wikipedia: https://en.wikipedia.org/wiki/Jane_Barlow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67883#The-End-of-Elfintown
 gutenberg_issued: '2022-04-20'
 identifiers:
   gutenberg: '67883'
